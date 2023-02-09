@@ -1,0 +1,11 @@
+The progression of Artificial Intelligence (AI) over time is unlikely to be linear. It is more likely to follow an exponential or S-shaped curve. An exponential growth 
+curve would suggest that the progress of AI is accelerating at a faster rate over time, which is what many experts believe is happening. An S-shaped curve would indicate 
+that the progress of AI is starting slow, accelerating rapidly in the middle, and then slowing down again as the technology approaches its limits.
+
+There are several factors that are contributing to the exponential growth of AI, including the increasing availability of data, improvements in hardware, and advancements
+in AI algorithms. The growth of AI is being driven by the development of machine learning algorithms, which allow computers to learn from data and improve their 
+performance over time.
+
+It is important to note that while the progression of AI is likely to be exponential, there will likely be fluctuations and slowdowns along the way, as the technology 
+faces technical and ethical challenges, and as society grapples with the implications of AI's rapid growth. Overall, however, the trend is likely to be towards continued 
+exponential growth in the capabilities of AI.
