@@ -7,3 +7,9 @@ Machine Learning Playlist: www.youtube.com/watch?v=ukzFI9rgwfU&list=PLEiEAq2VkUU
 Natural Language Processing: www.youtube.com/live/68lIfswwG2A?feature=share
 
 Deep Learning: www.youtube.com/live/lhufOy2W3Ps?feature=share
+
+Python [2022]: www.youtube.com/live/kWEbNBXc2-Y?feature=share
+
+Python [2023]: https://youtu.be/ITSMDeOgXxw
+
+Cloud Computing: https://youtu.be/bfv6XdfBZBw
