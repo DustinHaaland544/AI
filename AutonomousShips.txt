@@ -1,0 +1,40 @@
+www.ibm.com/cloud/automation/mayflower-autonomous-ship
+
+It is possible that in the future, we may see fully AI automated ships that are controlled by AI robots without any human involvement. However, it is important to note 
+that this level of automation would require significant advances in AI technology, as well as improvements in the reliability and safety of autonomous systems.
+
+Currently, there are already partially autonomous ships that are equipped with advanced navigation and control systems that allow them to operate with reduced human 
+intervention. However, fully autonomous ships would require the ability to navigate in a range of conditions and situations, including handling unexpected events and 
+making decisions in complex environments.
+
+There are also significant regulatory and safety considerations that would need to be addressed before fully autonomous ships could become a reality. For example, there 
+would need to be a clear framework for liability in the event of accidents or malfunctions involving autonomous ships.
+
+In summary, while it is technically possible that fully AI automated ships could be developed in the future, it is likely to be a complex and challenging process that 
+will require significant advancements in technology and careful consideration of regulatory and safety issues.
+
+It is difficult to predict with certainty when fully AI autonomous ships that do not require any human influence will be possible, as it depends on various factors such 
+as technological advancements, regulatory frameworks, and safety considerations. However, many experts in the field estimate that we may see fully autonomous ships in 
+operation by the 2030s or 2040s.
+
+In fact, some companies and research organizations are already working on developing and testing autonomous ships, and there have been successful demonstrations of 
+autonomous ships in various settings such as coastal waters, inland waterways, and open seas.
+
+However, it is important to note that the development of fully autonomous ships faces several challenges, such as navigating in complex and changing environments, 
+ensuring safety and reliability, and addressing legal and regulatory issues. Therefore, it is likely that the deployment of fully autonomous ships will happen gradually, 
+with partial autonomy being implemented first, followed by increased levels of automation as technology and infrastructure continue to improve.
+
+Mayflower 400 is a commemoration of the 400th anniversary of the Mayflower voyage from Plymouth, England, to Plymouth, Massachusetts, which took place in 1620. The 
+Mayflower 400 project aims to commemorate the cultural, historical, and social significance of the voyage and its impact on the world.
+
+The project involves a series of events and activities that take place in both England and the United States, including exhibitions, performances, lectures, and tours, 
+among others. The main aim of these activities is to explore and celebrate the shared heritage and values of the UK and the US, and to promote cultural and educational 
+exchange between the two countries.
+
+The Mayflower 400 project has also highlighted the impact of the Mayflower voyage on the Native American people, whose land and culture were greatly affected by the 
+arrival of the Pilgrims in America. As such, the project has also included a range of events and initiatives that aim to promote understanding and reconciliation 
+between indigenous peoples and the wider community.
+
+One notable project under the Mayflower 400 initiative was the creation of a new autonomous ship called the Mayflower Autonomous Ship (MAS), which set sail in 2020 
+from Plymouth, England to Plymouth, Massachusetts, following the same route as the original Mayflower. The MAS was designed to showcase the latest in autonomous 
+shipping technology and its potential applications in scientific research and exploration.
