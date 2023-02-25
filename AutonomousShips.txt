@@ -1,5 +1,7 @@
 www.ibm.com/cloud/automation/mayflower-autonomous-ship
 
+https://singularityhub.com/2022/06/23/an-autonomous-ship-used-ai-to-cross-the-atlantic-without-a-human-crew
+
 It is possible that in the future, we may see fully AI automated ships that are controlled by AI robots without any human involvement. However, it is important to note 
 that this level of automation would require significant advances in AI technology, as well as improvements in the reliability and safety of autonomous systems.
 
