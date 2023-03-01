@@ -1,0 +1,15 @@
+Augmented reality (AR) is a technology that allows digital content to be overlaid on top of the real world. This means that you can use your smartphone or other device to
+see virtual objects or information in the physical world around you.
+
+The basic idea behind AR is to use a camera or other sensor to capture the environment around you, and then use software to add digital content to that environment. 
+The digital content can take many forms, such as images, videos, or 3D models, and it can be anchored to specific locations or objects in the real world.
+
+One of the key benefits of AR is that it can enhance your understanding and experience of the real world. For example, you might use an AR app to see information about 
+the buildings around you as you walk through a city, or to see virtual furniture in your home before you buy it. AR can also be used for entertainment, such as playing 
+games that overlay virtual elements on the real world.
+
+To use AR, you typically need a device with a camera or other sensors, such as a smartphone or tablet. You also need software that can interpret the sensor data and 
+overlay digital content on the real world. Many apps and platforms now support AR, including popular social media platforms like Snapchat and Instagram.
+
+AR technology is still in its early stages, and there is much room for growth and innovation. However, it has the potential to revolutionize the way we interact with the 
+world around us, from education and entertainment to retail and advertising.
