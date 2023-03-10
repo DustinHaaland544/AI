@@ -8,6 +8,8 @@ www.cbinsights.com/research/ai-threatens-humanity-expert-quotes
 
 https://sitn.hms.harvard.edu/flash/2017/history-artificial-intelligence
 
+https://ai.facebook.com
+
 
 Deep learning and machine learning are both subfields of artificial intelligence that involve the use of algorithms to learn from data and make decisions. 
 The main difference between the two is the level of abstraction at which they operate.
