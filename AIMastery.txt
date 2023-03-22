@@ -1,3 +1,54 @@
 https://youtu.be/evN89fdKOxU
 
 https://youtu.be/JJCq21Dc-Us
+
+No, it is not too late to start a career in AI at the age of 32. Many people start their careers in AI at various ages and achieve great success. However, building a
+career in AI requires continuous learning and dedication.
+
+To start your journey in AI, here is a roadmap that you can follow:
+
+Learn Python: Python is a popular programming language used extensively in AI. Start with learning the basics of Python programming language, data structures, and
+algorithms.
+
+Mathematics and Statistics: AI involves a lot of mathematics and statistics. Brush up on your knowledge of linear algebra, calculus, probability, and statistics.
+
+Machine Learning: Learn the basics of machine learning. There are many online courses and tutorials available for free, such as Coursera, edX, and Udacity. You can also
+read books like "Hands-On Machine Learning with Scikit-Learn and TensorFlow."
+
+Practice with Projects: Start working on projects related to machine learning to gain hands-on experience. Participate in Kaggle competitions or work on open-source
+projects.
+
+Specialize in a Domain: Choose a domain you are interested in, such as computer vision, natural language processing, or robotics. Focus on learning the tools and
+techniques specific to that domain.
+
+Networking: Attend AI conferences, meetups, and events to network with other professionals in the field. This will help you learn about the latest trends, job openings,
+and connect with potential mentors.
+
+Continuous Learning: Keep up with the latest developments in AI by following blogs, attending webinars, and reading research papers. AI is a fast-evolving field, and it
+is crucial to stay updated.
+
+Remember, building a career in AI requires time, effort, and continuous learning. With dedication and hard work, you can achieve your goal of building a career in AI.
+
+
+Sure! Here are some AI newsletter sites and networks that you can subscribe to:
+
+AI Weekly Newsletter by The Wild Week in AI: This is a popular weekly newsletter that covers the latest developments and news in AI. (www.getrevue.co/profile/wildml)
+
+AI News: This is a daily newsletter that covers the latest AI news, events, and research. (aiweekly.co)
+
+The Batch by deeplearning.ai: This is a bi-weekly newsletter that covers AI news, research, and trends. It also includes a job board and events calendar.
+(www.deeplearning.ai/thebatch)
+
+AI Hub by Intel: This is a resource center that includes news, articles, webinars, and events related to AI. You can subscribe to their newsletter to get updates.
+(ai.intel.com/ai-hub)
+
+The AI Ethics Brief by the Algorithmic Justice League: This is a bi-weekly newsletter that covers AI ethics and fairness issues. (www.ajlunited.org/newsletter)
+
+The Machine Learning Society: This is a global community of machine learning professionals that organizes networking events, webinars, and conferences. You can
+subscribe to their newsletter to get notified about upcoming events. (mlsociety.com)
+
+AI World Society: This is a non-profit organization that aims to promote the development of AI for the benefit of humanity. They organize events, webinars, and
+workshops related to AI. (www.aiworldsociety.org)
+
+These are just a few examples of the many AI newsletter sites and networks available. You can also search for local AI meetup groups in your area to get notified about
+networking events.
