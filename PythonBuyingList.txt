@@ -1,4 +1,4 @@
-Book: www.amazon.com/gp/product/B0BRYWKKVJ
+Book: www.amazon.com/gp/product/B0BRYWKKVJ [Bought]
 
 Python Sheet: www.amazon.ca/dp/1423241886?th=1&psc=1
 
