@@ -1,0 +1,7 @@
+Book: www.amazon.com/gp/product/B0BRYWKKVJ
+
+Python Sheet: www.amazon.ca/dp/1423241886?th=1&psc=1
+
+Python Library: www.amazon.ca/Python-Standard-Library-Quickstudy-Laminated/dp/1423244230
+
+SQL Guide: www.amazon.ca/SQL-GUIDE-BarCharts-Publisher-Barcharts/dp/B00SQAUMQS
