@@ -31,3 +31,8 @@ applications.
 
 Today, many popular database management systems, such as Oracle, PostgreSQL, and Microsoft SQL Server, include support for object-relational features and are often
 referred to as ORDBMS.
+
+ORDBMS stands for Object-Relational Database Management System. It is a type of database management system that combines the relational model of traditional databases
+with object-oriented programming concepts, such as inheritance, encapsulation, and polymorphism. The goal of an ORDBMS is to provide the benefits of both relational
+and object-oriented databases, by allowing users to store and manipulate complex data structures while still retaining the flexibility and scalability of a relational
+database.
