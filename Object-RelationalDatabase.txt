@@ -1,0 +1,17 @@
+An object-relational database (ORD) is a type of database that combines elements of both object-oriented and relational database models.
+
+In a relational database, data is organized into tables consisting of rows and columns. Each table represents an entity or relationship between entities in the data, and 
+the data is stored in a structured manner. However, relational databases are not ideal for representing complex data relationships, and they may not be able to handle 
+large amounts of data efficiently.
+
+On the other hand, object-oriented databases store data as objects, which can be thought of as instances of a class in an object-oriented programming language. This 
+approach allows for more flexible and natural representation of complex data relationships, but it can also be less efficient for certain types of queries.
+
+An ORD attempts to combine the strengths of both approaches by allowing the user to define complex data types and relationships, while still using a traditional 
+table-based schema to store and query the data. An ORD allows developers to work with complex data types, such as arrays, lists, and even user-defined types, which are 
+not available in traditional relational databases. Additionally, an ORD supports inheritance and encapsulation, which are important concepts in object-oriented 
+programming.
+
+The main difference between an ORD and other databases is the ability to handle complex data types and relationships while still retaining the advantages of a traditional
+relational database, such as scalability, efficiency, and ease of use. This makes an ORD an attractive option for applications that require the handling of complex data 
+structures, such as scientific research, financial analysis, and multimedia storage and retrieval.
