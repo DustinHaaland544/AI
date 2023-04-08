@@ -15,3 +15,19 @@ programming.
 The main difference between an ORD and other databases is the ability to handle complex data types and relationships while still retaining the advantages of a traditional
 relational database, such as scalability, efficiency, and ease of use. This makes an ORD an attractive option for applications that require the handling of complex data 
 structures, such as scientific research, financial analysis, and multimedia storage and retrieval.
+
+
+Object-relational databases (ORD) were first developed in the late 1980s and early 1990s as a way to combine the benefits of both relational and object-oriented
+databases. The concept of an ORD involves adding object-oriented features to a relational database management system (RDBMS), such as support for complex data types,
+inheritance, and polymorphism.
+
+The first commercially available object-relational database management system was Illustra, which was developed by Illustra Information Technologies and released in
+1992. Illustra was a full-featured RDBMS that also provided support for object-oriented programming constructs and features, such as object types, methods, and
+encapsulation.
+
+Other notable object-relational database systems that were developed around the same time include O2 from Objectivity, ObjectStore from Object Design, and GemStone from
+GemStone Systems. These systems were designed to support the storage and retrieval of complex object structures and to provide high performance for object-oriented
+applications.
+
+Today, many popular database management systems, such as Oracle, PostgreSQL, and Microsoft SQL Server, include support for object-relational features and are often
+referred to as ORDBMS.
