@@ -1,3 +1,5 @@
+Forecast: www.metaculus.com/questions/5121/date-of-artificial-general-intelligence
+
 https://github.com/daveshap/raven
 
 https://youtu.be/gTkBUBJ9ksg
