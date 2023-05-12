@@ -16,6 +16,8 @@ https://ai.facebook.com
 
 https://en.wikipedia.org/wiki/Geoffrey_Hinton#Risks_of_artificial_intelligence
 
+www.washingtonpost.com/technology/2023/05/07/ai-beginners-guide
+
 
 Deep learning and machine learning are both subfields of artificial intelligence that involve the use of algorithms to learn from data and make decisions. 
 The main difference between the two is the level of abstraction at which they operate.
