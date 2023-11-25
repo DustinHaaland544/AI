@@ -30,6 +30,8 @@ www.washingtonpost.com/technology/2023/05/07/ai-beginners-guide
 
 www.prothomalo.com/world/n6bhnfahya
 
+https://globalnews.ca/news/10110598/artificial-intelligence-canada-future
+
 
 Deep learning and machine learning are both subfields of artificial intelligence that involve the use of algorithms to learn from data and make decisions. 
 The main difference between the two is the level of abstraction at which they operate.
