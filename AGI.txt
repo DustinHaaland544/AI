@@ -2,6 +2,8 @@ Forecast: www.metaculus.com/questions/5121/date-of-artificial-general-intelligen
 
 www.youtube.com/@mreflow/videos
 
+www.youtube.com/@DaveShap/videos
+
 https://github.com/daveshap/raven
 
 https://youtu.be/gTkBUBJ9ksg
