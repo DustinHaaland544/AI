@@ -1,7 +1,11 @@
 Deep learning and machine learning are both subfields of artificial intelligence that involve the use of algorithms to learn from data and make decisions. 
 The main difference between the two is the level of abstraction at which they operate.
 
-Deep learning algorithms are inspired by the structure and function of the brain, specifically the neural networks that make up the brain. They involve training multiple 
-layers of artificial neural networks on a large dataset, allowing the network to learn and make intelligent decisions on its own. Deep learning has been particularly 
-successful in applications such as image and speech recognition, and has also been used to make significant progress in fields such as healthcare, finance, and 
-transportation.
+Deep learning algorithms are inspired by the structure and function of the brain, specifically the neural networks that make up the brain. They involve training 
+multiple layers of artificial neural networks on a large dataset, allowing the network to learn and make intelligent decisions on its own. Deep learning has been 
+particularly successful in applications such as image and speech recognition, and has also been used to make significant progress in fields such as healthcare, 
+finance, and transportation.
+
+Deep Learning-1: www.kalerkantho.com/online/science/2024/12/26/1461602
+Deep Learning-2: www.kalerkantho.com/online/science/2024/12/29/1462684
+Deep Learning-3: www.kalerkantho.com/online/science/2024/12/30/1463079
