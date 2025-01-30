@@ -1,18 +1,28 @@
 https://youtu.be/h6w4SX7ZJMQ?si=SMTCy1O7QGPeHuUP
 
-Sure! Let’s dive into the world of quantum computing in a fun and simple way. Imagine you’re playing a video game, but instead of using a regular controller, you have a magical controller that lets you do things you could never do before. Quantum computing is like that magical controller for computers—it lets them solve problems in ways regular computers can’t.
+Sure! Let’s dive into the world of quantum computing in a fun and simple way. Imagine you’re playing a video game, but instead of using a regular controller, you 
+have a magical controller that lets you do things you could never do before. Quantum computing is like that magical controller for computers—it lets them solve 
+problems in ways regular computers can’t.
 
 What is a Regular Computer?
-First, let’s talk about regular computers, like the one you might use to play games or watch videos. These computers work with something called bits. A bit is like a tiny switch that can be either ON (which we call 1) or OFF (which we call 0). Everything a computer does—like showing pictures, playing sounds, or solving math problems—is made up of lots of these 1s and 0s.
+First, let’s talk about regular computers, like the one you might use to play games or watch videos. These computers work with something called bits. A bit is like 
+a tiny switch that can be either ON (which we call 1) or OFF (which we call 0). Everything a computer does—like showing pictures, playing sounds, or solving math 
+problems—is made up of lots of these 1s and 0s.
 
 What’s Special About Quantum Computers?
-Now, quantum computers are different. Instead of using regular bits, they use something called qubits (short for quantum bits). Qubits are like super-powered bits because they can do something really cool: they can be 1, 0, or both at the same time! This is called superposition. It’s like if you had a magical coin that could be heads, tails, or both heads and tails at the same time when you flip it.
+Now, quantum computers are different. Instead of using regular bits, they use something called qubits (short for quantum bits). Qubits are like super-powered bits 
+because they can do something really cool: they can be 1, 0, or both at the same time! This is called superposition. It’s like if you had a magical coin that could 
+be heads, tails, or both heads and tails at the same time when you flip it.
 
 How Does Superposition Help?
-Imagine you’re in a maze, and you need to find the way out. A regular computer would try one path at a time, like walking down one hallway, hitting a dead end, and then trying another. But a quantum computer can explore all the paths at the same time because of superposition. This makes it much faster at solving certain problems, like finding the best route or cracking secret codes.
+Imagine you’re in a maze, and you need to find the way out. A regular computer would try one path at a time, like walking down one hallway, hitting a dead end, and 
+then trying another. But a quantum computer can explore all the paths at the same time because of superposition. This makes it much faster at solving certain 
+problems, like finding the best route or cracking secret codes.
 
 Another Cool Thing: Entanglement
-Quantum computers also use something called entanglement. This is when two qubits become connected in a special way, so that if you change one, the other one changes instantly, even if they’re far apart. It’s like having two magic coins that are linked—if you flip one and it lands on heads, the other one will instantly know and do the same thing, no matter how far away it is.
+Quantum computers also use something called entanglement. This is when two qubits become connected in a special way, so that if you change one, the other one 
+changes instantly, even if they’re far apart. It’s like having two magic coins that are linked—if you flip one and it lands on heads, the other one will instantly 
+know and do the same thing, no matter how far away it is.
 
 What Can Quantum Computers Do?
 Quantum computers are still being developed, but scientists think they’ll be really good at:
@@ -24,7 +34,8 @@ Breaking codes: Some codes that keep our internet safe are based on really hard 
 Inventing new medicines: They could help scientists understand how tiny particles in our bodies work, which could lead to new cures for diseases.
 
 Why Aren’t Quantum Computers Everywhere?
-Quantum computers are still very new and tricky to build. They need to be kept super cold (colder than outer space!) and protected from any tiny disturbances, like vibrations or heat. Plus, they’re not great at everything—they’re only better than regular computers at certain tasks.
+Quantum computers are still very new and tricky to build. They need to be kept super cold (colder than outer space!) and protected from any tiny disturbances, like 
+vibrations or heat. Plus, they’re not great at everything—they’re only better than regular computers at certain tasks.
 
 Summary
 Regular computers use bits (1s and 0s).
@@ -35,4 +46,5 @@ Qubits can also be entangled, meaning they’re connected in a special way.
 
 Quantum computers are super fast at solving certain problems but are still being developed.
 
-Think of quantum computing as a superpower for computers—it’s not ready to replace your laptop yet, but one day it might help solve some of the biggest mysteries in science and make the world a better place! 
+Think of quantum computing as a superpower for computers—it’s not ready to replace your laptop yet, but one day it might help solve some of the biggest mysteries 
+in science and make the world a better place! 
