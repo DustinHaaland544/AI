@@ -10,8 +10,8 @@ https://youtu.be/Hv84JhzKvKQ?si=VXMFPDUBCJKTJSIJ [DANGEROUS]
 
 Hey, no offense, but you could be way more precise. 20 minutes is a lot of talk for a few core points. Here is the actual substance for everyone else:
 
-1. The Shift: We are moving from Chatbots to Autonomous Agents. OpenClaw represents AI that actually operates software and executes tasks instead of just generating 
-text.
+1. The Shift: We are moving from Chatbots to Autonomous Agents. OpenClaw represents AI that actually operates software and executes tasks instead of just 
+generating text.
 
 2. Localized AI: The future is running small models locally on private hardware. This removes subscription costs and solves privacy issues for professional clients 
 like doctors or lawyers.
